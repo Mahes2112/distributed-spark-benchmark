@@ -1,3 +1,4 @@
+![CI](https://github.com/Mahes2112/distributed-spark-benchmark/actions/workflows/ci.yml/badge.svg)
 <div align="center">
 
 ```
