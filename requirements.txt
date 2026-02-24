@@ -1,0 +1,7 @@
+pyspark
+pandas
+matplotlib
+pytest
+black
+flake8
+nbval
